@@ -1,5 +1,4 @@
 @extends('layouts.app')
-@section('title','| Home '. config('app.name'))
 
 @section('content')
 		<img src="images/zf.png" alt="ZF Logo" class="rounded shadow-md h-32 nt-12">
