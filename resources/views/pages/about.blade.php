@@ -1,4 +1,4 @@
-@extends('app')
+@extends('layouts.app')
 
 @section('title','| About  '. config('app.name'))
 @section('content')
